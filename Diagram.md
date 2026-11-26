@@ -1,8 +1,5 @@
 ```mermaid
 graph LR
-    BSD_CORE_CAT9K["BSD-CORE-CAT9K"] 
-    Admission2960ST["Admission2960ST"] <-- Admission2960ST["Admission2960ST"]
-    Admission2960ST["Admission2960ST"] <-- Admission2960ST["Admission2960ST"]
     Admission2960ST["Admission2960ST"] <-- BSD_AP_011_AP70BD_9608_2504["BSD-AP-011-AP70BD.9608.2504"]
     Admission2960ST["Admission2960ST"] <-- BSD_AP_016_AP70BD_9608_373C["BSD-AP-016-AP70BD.9608.373C"]
     Admission2960ST["Admission2960ST"] <-- BSD_AP_019_AP70BD_9608_2DD4["BSD-AP-019-AP70BD.9608.2DD4"]
